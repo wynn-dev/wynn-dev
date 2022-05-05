@@ -5,10 +5,9 @@
 
 ## I'm a Developer, Student and Sole trader
 
-- 🔭 I maintain a cloud provider called ActiniumCloud
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano
 
-### Connect with me: Wynn#1314
+### Connect with me: wynn@actinium.cloud or Wynn#1314
