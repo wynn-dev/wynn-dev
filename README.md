@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=Portfolio&style=for-the-badge&up_color=blue&up_message=Portfolio&url=https%3A%2F%2Fwynn.website)](https://wynn.website/)
 [![Website](https://img.shields.io/website?down_color=green&down_message=ActiniumCloud&style=for-the-badge&up_color=green&up_message=ActiniumCloud&url=https%3A%2F%2Factiniumcloud.com)](https://actiniumcloud.com/)
 
-## I'm a Developer, Student, Business Owner and Sole trader
+## I'm a Developer, Student and Sole trader
 
 - 🔭 I maintain a cloud provider called ActiniumCloud
 - 🌱 I’m currently learning PHP
@@ -11,4 +11,4 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano
 
-### Connect with me: Wynn#1001
+### Connect with me: Wynn#1314
