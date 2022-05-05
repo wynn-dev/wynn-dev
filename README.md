@@ -10,4 +10,4 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano
 
-### Connect with me: wynn@actinium.cloud or Wynn#1314
+### Connect with me: wynn@actinium.cloud (Email) or Wynn#1314 (Discord)
