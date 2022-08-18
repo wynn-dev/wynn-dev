@@ -1,7 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wynn-dev&show_icons=true&theme=ocean_dark">
-</a>
-
 ### Hi there 👋
 
 > 👦 I am a developer and sysadmin from China.
@@ -12,5 +8,9 @@
 - 👨‍💻 Current CEO of ActiniumCloud
 - 💻 I don't contribute much code to open source repositories, and I mainly use Javascript
 - 💬 Chat with me on Discord (Wynn#1314) / Wechat (qq209275660)
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=wynn-dev&show_icons=true&theme=ocean_dark">
+</a>
 
 Here is my Github page, feel free to browse around
