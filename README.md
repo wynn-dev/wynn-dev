@@ -13,4 +13,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wynn-dev&show_icons=true&theme=ocean_dark">
 </a>
 
+<br>
 ![Visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=wynn-dev.wynn-dev.readme)
