@@ -6,8 +6,6 @@
 
 ### Some stats for fun 
 
-<p align="center">
   <a href="https://tokscale.ai/u/wynn-dev">
     <img src="https://tokscale.ai/api/embed/wynn-dev/svg" alt="Tokscale Stats" width="600" />
   </a>
-</p>
