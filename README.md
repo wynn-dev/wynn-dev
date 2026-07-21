@@ -6,6 +6,4 @@
 
 #### Some stats for fun 
 
-  <a href="https://tokscale.ai/u/wynn-dev">
-    <img src="https://tokscale.ai/api/embed/wynn-dev/svg" alt="Tokscale Stats" width="600" />
-  </a>
+[![Tokscale Stats](https://tokscale.ai/api/embed/wynn-dev/svg?theme=light&template=minimal&rank=percent&tokens=compact&cost=full)](https://tokscale.ai/u/wynn-dev)
